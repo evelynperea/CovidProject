@@ -6,7 +6,7 @@ This project focuses on exploring global COVID-19 death trends from 2020 onwards
 ## 📁 Project Overview
 
 - **Objective**: To analyze and visualize COVID-19 death statistics across countries and regions, and identify trends over time.
-- **Data Source**: [Our World in Data - COVID-19 Dataset](https://ourworldindata.org/coronavirus-source-data)
+- **Data Source**: [Our World in Data - COVID-19 Dataset](https://ourworldindata.org/covid-deaths)
 - **Tools Used**:  
   - SQL  
   - Excel (for initial cleaning)
